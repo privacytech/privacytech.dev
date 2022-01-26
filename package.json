@@ -1,24 +1,24 @@
 {
-  "name": "tech-doc-hugo",
+  "name": "privacytech.dev",
   "version": "0.0.1",
-  "description": "Hugo theme for technical documentation.",
+  "description": "privacytech.dev",
   "main": "none.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/google/docsy-example.git"
+    "url": "git+https://github.com/privacytech/privacytech.dev.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/google/docsy-example/issues"
+    "url": "https://github.com/privacytech/privacytech.dev.git/issues"
   },
-  "homepage": "https://github.com/google/docsy-example#readme",
+  "homepage": "https://github.com/privacytech/privacytech.dev.git#readme",
   "devDependencies": {
     "autoprefixer": "^10.4.0",
     "postcss": "^8.3.7",
-    "postcss-cli": "^9.0.2"
+    "postcss-cli": "^9.1.0"
   }
 }
