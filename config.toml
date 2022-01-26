@@ -1,5 +1,5 @@
-baseURL = "/"
-title = "Goldydocs"
+baseURL = "https://privacytech.dev"
+title = "Privacy Tech"
 
 enableRobotsTXT = true
 
